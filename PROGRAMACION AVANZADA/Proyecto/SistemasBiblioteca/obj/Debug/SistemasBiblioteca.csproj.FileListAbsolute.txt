@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\bin\Debug\SistemasBiblioteca.exe.config
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\bin\Debug\SistemasBiblioteca.exe
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\bin\Debug\SistemasBiblioteca.pdb
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.exe
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.pdb
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.Formularios.FrmAutores.resources
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.Formularios.FrmEditoriales.resources
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.Formularios.FrmUsuarios.resources
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.Formularios.FrmLibros.resources
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.Formularios.FrmPrestamos.resources
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.Formularios.frmReportes.resources
+C:\Users\Lenovo\source\repos\SistemasBiblioteca\obj\Debug\SistemasBiblioteca.FrmPrincipal.resources
